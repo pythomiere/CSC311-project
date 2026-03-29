@@ -1,0 +1,12 @@
+{
+  "best_config": {
+    "hidden_dim": 128,
+    "emb_dim": 100,
+    "dropout": 0.2,
+    "lr": 0.0005
+  },
+  "best_val_loss": 0.39016867038749514,
+  "best_epoch": 27,
+  "test_loss": 0.4044346739264095,
+  "test_acc": 0.8745098039215686
+}
